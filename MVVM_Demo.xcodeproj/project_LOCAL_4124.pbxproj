@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		790DDA352A441E1000995D4F /* Feature1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 790DDA342A441E1000995D4F /* Feature1.swift */; };
 		790DDA372A441E8000995D4F /* Feature2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 790DDA362A441E8000995D4F /* Feature2.swift */; };
 		794C68072A32F2570029C601 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 794C68062A32F2570029C601 /* AppDelegate.swift */; };
 		794C68092A32F2570029C601 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 794C68082A32F2570029C601 /* SceneDelegate.swift */; };
@@ -26,7 +25,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		790DDA342A441E1000995D4F /* Feature1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feature1.swift; sourceTree = "<group>"; };
 		790DDA362A441E8000995D4F /* Feature2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feature2.swift; sourceTree = "<group>"; };
 		794C68032A32F2570029C601 /* MVVM_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVM_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		794C68062A32F2570029C601 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -84,7 +82,6 @@
 				794C68202A330C920029C601 /* Storyboard */,
 				794C681F2A330C900029C601 /* Resources */,
 				794C68142A32F2580029C601 /* Info.plist */,
-				790DDA342A441E1000995D4F /* Feature1.swift */,
 				790DDA362A441E8000995D4F /* Feature2.swift */,
 			);
 			path = MVVM_Demo;
@@ -274,7 +271,6 @@
 				794C681E2A32F2900029C601 /* ProductViewModel.swift in Sources */,
 				794C680B2A32F2570029C601 /* ProductViewController.swift in Sources */,
 				794C682A2A330D760029C601 /* APIController.swift in Sources */,
-				790DDA352A441E1000995D4F /* Feature1.swift in Sources */,
 				794C68072A32F2570029C601 /* AppDelegate.swift in Sources */,
 				794C682C2A330F020029C601 /* Constants.swift in Sources */,
 				794C68302A33163B0029C601 /* ProductCell.swift in Sources */,
