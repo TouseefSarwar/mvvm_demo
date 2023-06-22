@@ -132,7 +132,6 @@ build/
 #
 # NB: this is exclusive with OPTION 2 below
 xcuserdata/
-xcuserdata/*.*/*.*
 
 # OPTION 2: ---------------------------------
 #     get rid of ALL personal settings, but KEEP SOME OF THEM
@@ -142,8 +141,8 @@ xcuserdata/*.*/*.*
 #    or manually install git over the top of the OS X version
 # NB: this is exclusive with OPTION 1 above
 #
-xcuserdata/**/*
-
+#xcuserdata/**/*
+*.xcuserstate
 #     (requires option 2 above): Personal Schemes
 #
 #!xcuserdata/**/xcschemes/*
